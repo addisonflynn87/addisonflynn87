@@ -9,7 +9,7 @@ U.S. Navy veteran (Cryptologic Technician – Networking) transitioning into IT 
 - TS/SCI clearance eligible — previously held, eligible to re-obtain upon employer sponsorship
 
 ## Currently Studying
-- CompTIA A+ (Core 1 & 2) — exam scheduled Q3 2026
+- CompTIA A+ (Core 1 & 2) — exam scheduled Q4 2026
 - Google IT Support Professional Certificate
 - Associate of Applied Science, Cybersecurity — Austin Community College (expected 2027)
 
